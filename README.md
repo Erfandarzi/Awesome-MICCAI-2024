@@ -11,7 +11,7 @@ A curated list of awesome MICCAI 2024 accepted papers with available code implem
 
 ## Table of Contents
 
-- [Classification](##⭐ Classification)
+- [Classification](#Classification)
 - [Data Analysis](#data-analysis)
 - [Detection](#detection)
 - [Image Enhancement](#image-enhancement)
