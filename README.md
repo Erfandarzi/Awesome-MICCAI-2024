@@ -53,7 +53,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_34) [💻 Code](https://github.com/scurrytao/QFMMNet)
 
 - **Self-guided Knowledge-Injected GNN for Alzheimer's Diseases**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_36) [💻 Code](https://Not specified)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_36) 
 
 - **Spatiotemporal Graph Neural Network Modelling Perfusion MRI**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7) [💻 Code](https://github.com/DaisyYan2000/Perf-GAT)
@@ -71,7 +71,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_11) [💻 Code](https://github.com/Yukui-1999/ECCL)
 
 - **Decoding the Visual Attention of Pathologists**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_12) [💻 Code](https://Not specified)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_12) 
 
 - **DiRecT: Diagnosis and Reconstruction Transformer for Mandibular Deformity**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_14) [💻 Code](https://github.com/RPIDIAL/DiRecT)
@@ -83,7 +83,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1) [💻 Code](https://github.com/bm2-lab/PathoTME)
 
 - **MoRA: LoRA Guided Multi-modal Disease Diagnosis**
-  [📄 Paper](10.1007/978-3-031-72384-1) [💻 Code](https://github.com/zhiyiscs/MoRA)
+  [📄 Paper](https://10.1007/978-3-031-72384-1) [💻 Code](https://github.com/zhiyiscs/MoRA)
 
 - **Prior Activation Map Guided Cervical OCT Image Classification**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_36) [💻 Code](https://github.com/ssea-lab/AMGuided_Cervical_OCT_Classification)
@@ -122,7 +122,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72086-4) [💻 Code](https://github.com/ClementPla/RetinalViT/tree/prototype_superpixels)
 
 - **ACLNet: A Deep Learning Model for ACL Rupture Classification**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72086-4_6) [💻 Code](https://Not specified)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72086-4_6) 
 
 - **A Scanning Laser Ophthalmoscopy Image Database and Trustworthy Retinal Disease Detection Method**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72086-4_5) [💻 Code](https://drive.google.com/drive/TrustDetector/Retina-SLO)
@@ -146,7 +146,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_5) [💻 Code](https://github.com/HelenMa9998/Easy_hard_AL)
 
 - **Advancing Brain Imaging Analysis**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_6 ) [💻 Code](https://github.com/Hrychen7/PSPD)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_6) [💻 Code](https://github.com/Hrychen7/PSPD)
 
 - **Correlation-Adaptive Multi-view CEUS Fusion for Liver Cancer Diagnosis**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72086-4_18) [💻 Code](https://github.com/shukangzh/CAMVF)
@@ -233,7 +233,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72086-4) [💻 Code](https://github.com/xiextong/VDPF)
 
 - **Semi-supervised Lymph Node Metastasis Classification**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_58) [💻 Code](https://Not specified)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_58) 
 
 - **Spatio-Temporal Contrast Network for Data-Efficient Learning of Coronary Artery Disease in Coronary CT Angiography**
   [📄 Paper](https://github.com/PerceptionComputingLab/SC-Net) [💻 Code](https://github.com/PerceptionComputingLab/SC-Net)
@@ -242,7 +242,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_64) [💻 Code](https://github.com/CIAM-Group/ComputerVisionCodes/tree/main/TERL)
 
 - **TARDRL:Task-Aware Reconstruction**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_65) [💻 Code](https://Yes, available in the repository)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_65) 
 
 - **Subject-Adaptive Transfer Learning Using Resting State EEG Signals**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_63) [💻 Code](https://github.com/SionAn/MICCAI2024-ResTL)
@@ -269,7 +269,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_5) [💻 Code](https://github.com/yhygao/Explicd)
 
 - **BiasPruner : Debiased Continual Learning for Medical Image Classiﬁcation**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_9) [💻 Code](https://Yes, link provided in the supplementary material)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_9) 
 
 - **CAR-MFL: Cross-Modal Augmentation by Retrieval for Multimodal Federated Learning**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_10) [💻 Code](https://github.com/bhattarailab/CAR-MFL)
@@ -293,7 +293,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_20) [💻 Code](https://github.com/ayanglab/DiﬀExplainer)
 
 - **Disentangled Attention Graph Neural Network for Alzheimer’s Disease Diagnosis**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5) [💻 Code](https://Yes, available on Github)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5) 
 
 - **Federated Client Unlearning in Medical Imaging**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_23) [💻 Code](https://github.com/dzp2095/FCU)
@@ -308,7 +308,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_29) [💻 Code](https://github.com/obiyoag/evi-CEM)
 
 - **FairQuantize**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_31) [💻 Code](https://Yes, https://github.com/guoyb17/FairQuantize)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_31) 
 
 - **Explainable Vertebral Fracture Analysis**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_30) [💻 Code](https://github.com/waahlstrand/xvfa)
@@ -326,7 +326,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_40) [💻 Code](https://github.com/richard-peng-xia/DECO)
 
 - **Image Distillation for Safe Data Sharing**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_43) [💻 Code](https://Yes, available at https://github.com/ZheLi2020/InfoDist)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_43) 
 
 - **IMG-GCN: Interpretable Modularity-Guided Structure-Function Interactions Learning for Brain Cognition and Disorder Analysis**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_44) [💻 Code](https://No)
@@ -371,7 +371,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72378-0) [💻 Code](https://github.com/xmed-lab/GeCA)
 
 - **MPMNet: Modal Prior Mutual-Support Network for AMD Classification**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72378-0) [💻 Code](https://Not specified)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72378-0) 
 
 - **Hierarchical Multiple Instance Learning for COPD Grading**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72378-0) [💻 Code](https://github.com/Mars-Zhang123/H-MIL.git)
@@ -503,7 +503,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72086-4 71) [💻 Code](https://Yes)
 
 - **Topological SLAM in Colonoscopies**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5) [💻 Code](https://Yes, at github.com/endomapper/ColonSLAM)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5) 
 
 - **WSSADN: A Weakly Supervised Spherical Age-Disentanglement Network for Detecting Developmental Disorders with Structural MRI**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_73) [💻 Code](https://github.com/xuepengcheng1231/WSSADN)
@@ -545,7 +545,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
 ### Image Enhancement
 
 - **A Clinical-Oriented Lightweight Network for High-Resolution Medical Image Enhancement**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_1) [💻 Code](https://Yes, link to supplementary material (https://doi.org/10.1007/978-3-031-72384-1_1))
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_1) 
 
 - **Cross-Modal Diffusion Modelling for Super-Resolved Spatial Transcriptomics**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_10) [💻 Code](https://doi.org/10.1007/978-3-031-72384-1_10)
@@ -590,7 +590,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_73) [💻 Code](https://github.com/zhaohaoyu376/WI-LD2ND)
 
 - **Zero-Shot Low-Field MRI Enhancement**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_74) [💻 Code](https://Not specified)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_74) 
 
 - **Multi-frequency and Smoke Attention-Aware Learning Based Diffusion Model**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72378-0_5) [💻 Code](https://doi.org/10.1007/978-3-031-72378-0_5)
@@ -602,7 +602,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
 ### Image Generation
 
 - **Masked Residual Diﬀusion Probabilistic Model**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_26) [💻 Code](https://Yes, https://github.com/UniversalCAI/MRDPM-with-RAP)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_26) 
 
 - **A Novel Deep Generative Model for Diffusion MRI Generation**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7) [💻 Code](https://No)
@@ -653,7 +653,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_18) [💻 Code](https://github.com/xionghonglin/CRL)
 
 - **EchoNet-Synthetic**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_28) [💻 Code](https://Yes, available at https://github.com/HReynaud/EchoNet-Synthetic)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_28) 
 
 - **HeartBeat**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_35) [💻 Code](https://No)
@@ -695,7 +695,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_54) [💻 Code](https://github.com/compai-lab/2024-miccai-eichhorn)
 
 - **Resolving Variable Respiratory Motion From Unsorted 4D Computed Tomography**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72378-0_55) [💻 Code](https://Yes, https://github.com/Yuliang-Huang/4DCT-irregular-motion)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72378-0_55) 
 
 
 ### Natural Language Processing
@@ -710,7 +710,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72086-4) [💻 Code](https://github.com/velvinnn/DermaVQA)
 
 - **BIMCV-R**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_12) [💻 Code](https://Yes, https://huggingface.co/datasets/cyd0806/BIMCV-R)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_12) 
 
 - **Coarse-to-Fine Grained Representations in Contrastive Learning for Medical VQA**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72086-4) [💻 Code](https://github.com/big-white-rabbit/Coarse-to-Fine-Grained-Contrastive-Learning)
@@ -731,13 +731,13 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_8) [💻 Code](https://github.com/siyeopyoon/Diffusion-Cortical-Thickness-Trajectory)
 
 - **In Vivo Deep Learning Estimation of Nanoparticle Diffusion**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_20) [💻 Code](https://Yes, provided as PyTorch code)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_20) 
 
 - **MARVEL: MR Fingerprinting with micRoVascular Estimates Using BiLSTMs**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_25) [💻 Code](https://github.com/nifm-gin/MARVEL)
 
 - **MGDR**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_29) [💻 Code](https://Not specified)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_29) 
 
 - **SOM2LM: Self-Organized Multi-Modal Longitudinal Maps**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_38) [💻 Code](https://github.com/ouyangjiahong/longitudinal-som-multi-modality)
@@ -746,7 +746,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_42) [💻 Code](https://github.com/MattiaLitrico/TADM-Temporally-Aware-Diffusion-Model-for-Neurodegenerative-Progression-on-Brain-MRI)
 
 - **tDCS Digital Twins Using Deep Learning**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_44) [💻 Code](https://Yes, https://github.com/lab-smile/tDCS-DT)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_44) 
 
 - **Disease Progression Prediction Incorporating Genotype-Environment Interactions**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_15) [💻 Code](https://No)
@@ -764,7 +764,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1) [💻 Code](https://github.com/panxipeng/PG-MLIF)
 
 - **Prediction of Disease-Related Femur Shape Changes Using Geometric Encoding and Clinical Context on a Hip Disease CT Database**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_35) [💻 Code](https://Yes, https://github.com/RIO98/FemurSurfacePrediction)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_35) 
 
 - **Probabilistic Temporal Prediction of Continuous Disease Trajectories and Treatment Effects Using Neural SDEs**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1) [💻 Code](https://No)
@@ -794,7 +794,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72086-4_31) [💻 Code](https://github.com/BioMedIA-MBZUAI/HuLP)
 
 - **F2TNet: FMRI to T1w MRI Knowledge Transfer Network for Brain Multi-phenotype Prediction**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5) [💻 Code](https://Yes, link to GitHub repository: https://github.com/CUHK-AIM-Group/F2TNet)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5) 
 
 - **LOMIA-T: A Transformer-Based Framework for Predicting Treatment Response**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72086-4_40) [💻 Code](https://github.com/syc19074115/LOMIA-T)
@@ -824,7 +824,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72086-4_62) [💻 Code](https://github.com/numanai/SurvRNC)
 
 - **TabMixer: Noninvasive Estimation of the Mean Pulmonary Artery Pressure via Imaging and Tabular Data Mixing**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72086-4_63) [💻 Code](https://Yes, https://github.com/SanoScience/TabMixer)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72086-4_63) 
 
 - **Structure-Preserving Image Translation for Depth Estimation in Colonoscopy**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5) [💻 Code](https://github.com/sherry97/struct-preserving-cyclegan)
@@ -884,7 +884,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7) [💻 Code](https://github.com/lvyanan525/Aligning-and-Restoring-Imperfect-ssEM-images)
 
 - **PX2Tooth: Reconstructing the 3D Point Cloud Teeth from a Single Panoramic X-Ray**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_39) [💻 Code](https://Yes, supplementary material available on Springer)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_39) 
 
 - **LGS: A Light-Weight 4D Gaussian Splatting for Eﬃcient Surgical Scene Reconstruction**
   [📄 Paper](https://lgs-endo.github.io/) [💻 Code](https://lgs-endo.github.io/)
@@ -923,13 +923,13 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_19) [💻 Code](https://pnu-amilab.github.io/CINR/)
 
 - **Cycle-Consistent Learning for Fetal Cortical Surface Reconstruction**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5) [💻 Code](https://Not specified)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5) 
 
 - **Dynamic Hybrid Unrolled Multi-scale Network for Accelerated MRI Reconstruction**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_26) [💻 Code](https://doi.org/10.1007/978-3-031-72104-5_26)
 
 - **Explanation-Driven Cyclic Learning for Brain MRI Reconstruction**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_31) [💻 Code](https://Not specified)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_31) 
 
 - **Fine-Grained Context and Multi-modal Alignment for Freehand 3D Ultrasound Reconstruction**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_33) [💻 Code](https://No)
@@ -962,7 +962,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_59) [💻 Code](https://github.com/compai-lab/2024-miccai-spieker)
 
 - **Bone Shape Reconstruction from Biplanar X-Rays**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_64) [💻 Code](https://Yes, https://github.com/xmed-lab/SdAOF)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_64) 
 
 - **SRE-CNN: A Spatiotemporal Rotation-Equivariant CNN for Cardiac Cine MR Imaging**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_65) [💻 Code](https://No)
@@ -1019,7 +1019,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_66) [💻 Code](https://github.com/ngunnar/2D_motion_model)
 
 - **PULPo**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_67) [💻 Code](https://Yes, https://github.com/leonardsiegert/PULPo)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_67) 
 
 - **TLRN: Temporal Latent Residual Networks**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7) [💻 Code](https://github.com/nellie689/TLRN)
@@ -1031,7 +1031,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_70) [💻 Code](https://github.com/uncbiag/uniGradICON)
 
 - **WiNet: Wavelet-Based Incremental Learning for Efficient Medical Image Registration**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_71 ) [💻 Code](https://Yes, https://github.com/x-xc/WiNet)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_71) 
 
 - **MemWarp: Discontinuity-Preserving Cardiac Registration**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_63) [💻 Code](https://github.com/tinymilky/Mem-Warp)
@@ -1106,7 +1106,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72114-4_29) [💻 Code](https://doi.org/10.1007/978-3-031-72114-4_29)
 
 - **Hemodynamic-Driven Multi-prototypes Learning for One-Shot Segmentation**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72114-4_31) [💻 Code](https://Yes, https://github.com/Medical-AI-Lab-of-JNU/HDMP)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72114-4_31) 
 
 - **HyperSpace: Hypernetworks for Spacing-Adaptive Image Segmentation**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72114-4_33) [💻 Code](https://github.com/ImFusionGmbH/HyperSpace)
@@ -1118,7 +1118,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72114-4_36) [💻 Code](https://github.com/ccarliu/multimodal-PL)
 
 - **Osteocytes Teach SR-MicroCT Bone Lacunae Segmentation**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72114-4_37) [💻 Code](https://Yes, https://github.com/isabellapoles/LOTUS)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72114-4_37) 
 
 - **LB-UNet: A Lightweight Boundary-Assisted UNet for Skin Lesion Segmentation**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72114-4_35) [💻 Code](https://github.com/xuxuxuxuxuxjh/LB-UNet)
@@ -1127,7 +1127,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72114-4) [💻 Code](https://github.com/Joey-S-Liu/LM-UNet)
 
 - **LIDIA: Precise Liver Tumor Diagnosis**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72114-4_38) [💻 Code](https://Not specified)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72114-4_38) 
 
 - **MAdapter: Image and Language Medical Segmentation**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72114-4_41) [💻 Code](https://github.com/XShadow22/MAdapter)
@@ -1193,7 +1193,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_16) [💻 Code](https://github.com/ladderlab-xjtu/CortexDiffusion)
 
 - **Soft-Labeled Contrastive Learning for Cardiac Image Segmentation**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72114-4_65) [💻 Code](https://Yes, https://github.com/MingxuanGu/Soft-Labeled-Contrastive-Learning)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72114-4_65) 
 
 - **Visual-Textual Matching Attention**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72114-4_67) [💻 Code](https://github.com/nguyenpbui/MMI-UNet.git)
@@ -1319,7 +1319,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_8) [💻 Code](https://github.com/WUTCM-Lab/CausalCLIPSeg)
 
 - **Multi-stage Multi-granularity Focus-Tuned Learning Paradigm for Medical HSI Segmentation**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72111-3_43) [💻 Code](https://Yes, available at https://github.com/DHC233/FL)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72111-3_43) 
 
 - **NeuroLink: Bridging Weak Signals in Neuronal Imaging with Morphology Learning**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72111-3_44) [💻 Code](https://github.com/Qingjia0226/NeuroLink)
@@ -1328,7 +1328,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72111-3_46) [💻 Code](https://doi.org/10.1007/978-3-031-72111-3)
 
 - **PathMamba: Weakly Supervised State Space Model for Multi-class Segmentation of Pathology Images**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72111-3) [💻 Code](https://Yes, available at https://github.com/hemo0826/PathMamba)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72111-3) 
 
 - **Prompt-Based Segmentation Model**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72111-3_49) [💻 Code](https://doi.org/10.1007/978-3-031-72111-3_49)
@@ -1343,7 +1343,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_22) [💻 Code](https://github.com/SanoScience/DeCode)
 
 - **Test-Time Domain Adaptation for Medical Image Segmentation**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72111-3_52) [💻 Code](https://Yes, GitHub)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72111-3_52) 
 
 - **SDCL: Students Discrepancy-Informed Correction for Semi-supervised Medical Segmentation**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72111-3_53) [💻 Code](https://github.com/pascalcpp/SDCL)
@@ -1367,7 +1367,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_60) [💻 Code](https://github.com/xyx1024/SimTxtSeg)
 
 - **Simulation-Based Segmentation of Blood Vessels in Cerebral 3D OCTA Images**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72111-3_61) [💻 Code](https://Yes, https://github.com/bwittmann/syn-cerebral-octa-seg)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72111-3_61) 
 
 - **Stable Diﬀusion Segmentation for Biomedical Images**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72111-3_62) [💻 Code](https://github.com/lin-tianyu/Stable-Diﬀusion-Seg)
@@ -1412,7 +1412,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_7) [💻 Code](https://github.com/Arturia-Pendragon-Iris/VonoroiGeneration)
 
 - **ASA: Learning Anatomical Consistency, Sub-volume Spatial Relationships and Fine-Grained Appearance**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_9) [💻 Code](https://Yes, available at GitHub.com/JLiangLab/ASA)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_9) 
 
 - **Cache-Driven Spatial Test-Time Adaptation for Cross-Modality Medical Image Segmentation**
   [📄 Paper](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_14) [💻 Code](https://github.com/lixiang007666/STTA)
@@ -1445,7 +1445,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_36) [💻 Code](https://doi.org/10.1007/978-3-031-72120-5_36)
 
 - **Masks and Manuscripts: Advancing Medical Pre-training**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5) [💻 Code](https://Not specified)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5) 
 
 - **MOST: Multi-formation Soft Masking for Semi-supervised Medical Image Segmentation**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72120-5_44) [💻 Code](https://github.com/CUHK-AIM-Group/MOST-SSL4MIS)
@@ -1481,7 +1481,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5) [💻 Code](https://github.com/i-vesseg/RobustMedSeg)
 
 - **FedEvi: Improving Federated Medical Image Segmentation via Evidential Weight Aggregation**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_34) [💻 Code](https://Yes, https://github.com/JiayiChen815/FedEvi)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_34) 
 
 - **FedIA: Federated Medical Image Segmentation**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72117-5_35) [💻 Code](https://github.com/HUSTxyy/FedIA)
@@ -1586,7 +1586,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1) [💻 Code](https://github.com/man-shu/ensemble-fmri)
 
 - **Adaptive Subtype and Stage Inference for Alzheimer’s Disease**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_5) [💻 Code](https://Not specified)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_5) 
 
 - **Boosting FFPE-to-HE Virtual Staining**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1) [💻 Code](https://github.com/huyihuang/FFPE-to-HE)
@@ -1607,7 +1607,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_49) [💻 Code](https://github.com/ngcaonghi/scaffoldnoise)
 
 - **Deep Learning for MRS Voxel Placement in Brain Tumors**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_51) [💻 Code](https://Not specified)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_51) 
 
 - **DomainAdapt: Leveraging Multitask Learning**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1) 
@@ -1625,13 +1625,13 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5) [💻 Code](https://doi.org/10.1007/978-3-031-72104-5)
 
 - **Material Decomposition in Photon-Counting CT**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_44) [💻 Code](https://Not specified)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_44) 
 
 - **PASTA: Pathology-Aware MRI to PET Translation with Diffusion Models**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_51) [💻 Code](https://github.com/ai-med/PASTA)
 
 - **Pixel2Mechanics: Automated Biomechanical Simulations of High-Resolution Intervertebral Discs from Anisotropic MRIs**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_55) [💻 Code](https://Yes, will be provided at Pixel2Mechanics)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_55) 
 
 - **3D Volumetric Brain CT-to-MRI Translation**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72104-5_63) [💻 Code](https://github.com/MICV-yonsei/CT2MRI)
@@ -1667,7 +1667,7 @@ A curated list of awesome AI papers in medical imaging with available code imple
   [📄 Paper](https://doi.org/10.1007/978-3-031-72378-0) [💻 Code](https://github.com/zhuye98/SDPL.git)
 
 - **Generating Anatomically Accurate Heart Structures via Neural Implicit Fields**
-  [📄 Paper](https://doi.org/10.1007/978-3-031-72378-0_25) [💻 Code](https://Not specified)
+  [📄 Paper](https://doi.org/10.1007/978-3-031-72378-0_25) 
 
 - **Whole Heart 3D+T Representation Learning Through Sparse 2D Cardiac MR Images**
   [📄 Paper](https://doi.org/10.1007/978-3-031-72378-0) [💻 Code](https://github.com/Yundi-Zhang/WholeHeartRL.git)
