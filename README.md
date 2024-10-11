@@ -7,7 +7,7 @@
 A curated list of awesome MICCAI 2024 accepted papers with available code implementations.
 
 ![Distribution of Categories in AI Papers](distribution.gif)
-![Organs in the papers](organs.gif)
+![Organs in the papers](655bb783-fee5-48d2-a0a9-dbb7bb5c0971.gif)
 
 ## Table of Contents
 
