@@ -37,9 +37,6 @@ BrainWaveNet: Wavelet-Based Transformer for Autism Spectrum Disorder Diagnosis
 Customized Relationship Graph Neural Network for Brain Disorder Identification
 [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_11) [💻 Code](https://github.com/NJUSTxiazw/CRGNN)
 
-Multi-armed Bandit on Image Deformations Improves Fluorescence GBR
-[📄 Paper](https://doi.org/10.1007/978-3-031-72069-7) [💻 Code](https://github.com/ainieli/EEA)
-
 DTCA: Dual-Branch Transformer with Cross-Attention for EEG and Eye Movement Data Fusion
 [📄 Paper](https://bcmi.sjtu.edu.cn/~seed/index.html) [💻 Code](https://No)
 
@@ -54,9 +51,6 @@ Quality-Aware Fuzzy Min-Max Neural Networks for Dynamic Brain Network Analysis
 
 Self-guided Knowledge-Injected GNN for Alzheimer's Diseases
 [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_36) 
-
-Spatiotemporal Graph Neural Network Modelling Perfusion MRI
-[📄 Paper](https://doi.org/10.1007/978-3-031-72069-7) [💻 Code](https://github.com/DaisyYan2000/Perf-GAT)
 
 Graph Neural Networks with Domain-Generalizable Explainability for Brain Disorder Diagnosis
 [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_43) [💻 Code](https://github.com/ladderlab-xjtu/XG-GNN)
@@ -439,9 +433,6 @@ Backdoor in Medical Image Analysis
 
 ### Detection
 
-MetaAD for Parkinson’s Detection
-[📄 Paper](https://doi.org/10.1007/978-3-031-72069-7) [💻 Code](https://github.com/MedAIerHHL/MetaAD)
-
 BGF-YOLO: Enhanced YOLOv8 with Multiscale Attentional Feature Fusion for Brain Tumor Detection
 [📄 Paper](https://doi.org/10.1007/978-3-031-72111-3_4) [💻 Code](https://github.com/mkang315/BGF-YOLO)
 
@@ -603,9 +594,6 @@ Myocardial Scar Enhancement with Local Diffusion
 
 Masked Residual Diﬀusion Probabilistic Model
 [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_26) 
-
-A Novel Deep Generative Model for Diffusion MRI Generation
-[📄 Paper](https://doi.org/10.1007/978-3-031-72069-7) [💻 Code](https://No)
 
 Advancing Text-Driven Chest X-Ray Generation with Policy-Based Reinforcement Learning
 [📄 Paper](https://micv-yonsei.github.io/cxrl2024/) [💻 Code](https://micv-yonsei.github.io/cxrl2024/)
@@ -880,9 +868,6 @@ Conditional Diﬀusion Model for Versatile Temporal Inpainting in 4D Cerebral CT
 Cortical Surface Reconstruction from 2D MRI with Segmentation-Constrained Super-Resolution and Representation Learning
 [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_10) [💻 Code](https://github.com/SCUT-Xinlab/CSR-from-2D-MRI)
 
-Aligning and Restoring Imperfect ssEM Images
-[📄 Paper](https://doi.org/10.1007/978-3-031-72069-7) [💻 Code](https://github.com/lvyanan525/Aligning-and-Restoring-Imperfect-ssEM-images)
-
 PX2Tooth: Reconstructing the 3D Point Cloud Teeth from a Single Panoramic X-Ray
 [📄 Paper](https://doi.org/10.1007/978-3-031-72384-1_39) 
 
@@ -988,9 +973,6 @@ Algebraic Sphere Surface Fitting for Accurate and Efficient Mesh Reconstruction 
 
 ### Registration
 
-Data-Driven Tissue- and Subject-Speciﬁc Elastic Regularization for Medical Image Registration
-[📄 Paper](https://doi.org/10.1007/978-3-031-72069-7) [💻 Code](https://github.com/compai-lab/2024-miccai-reithmeir)
-
 Deep-Learning-Based Groupwise Registration for Motion Correction of Cardiac T1Mapping
 [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_55) [💻 Code](https://doi.org/10.1007/978-3-031-72069-7_55)
 
@@ -1020,12 +1002,6 @@ Online Learning in Motion Modeling
 
 PULPo
 [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_67) 
-
-TLRN: Temporal Latent Residual Networks
-[📄 Paper](https://doi.org/10.1007/978-3-031-72069-7) [💻 Code](https://github.com/nellie689/TLRN)
-
-Universal Med Image Registration via SAMCL
-[📄 Paper](https://doi.org/10.1007/978-3-031-72069-7) [💻 Code](https://github.com/xzluo97/Continual-Reg)
 
 uniGradICON: A Foundation Model for Medical Image Registration
 [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_70) [💻 Code](https://github.com/uncbiag/uniGradICON)
@@ -1201,9 +1177,6 @@ Visual-Textual Matching Attention
 VLSM-Adapter: Finetuning Vision-Language Segmentation Efficiently with Lightweight Blocks
 [📄 Paper](https://doi.org/10.1007/978-3-031-72114-4_68) [💻 Code](https://github.com/naamiinepal/vlsm-adapter)
 
-Knowledge-Guided Prompt Learning for Lifespan Brain MR Image Segmentation
-[📄 Paper](https://doi.org/10.1007/978-3-031-72069-7) [💻 Code](https://github.com/TL9792/KGPL)
-
 WS-TIS
 [💻 Code](https://github.com/ladderlab-xjtu/WS-TIS)
 
@@ -1227,9 +1200,6 @@ Network Calibration
 
 Class-Aware Mutual Mixup for Semi-supervised Cross-Domain Segmentation
 [📄 Paper](https://doi.org/10.1007/978-3-031-72111-3_7) [💻 Code](https://No)
-
-UinTSeg: Uniﬁed Infant Brain Tissue Segmentation
-[📄 Paper](https://doi.org/10.1007/978-3-031-72069-7) [💻 Code](https://Yes)
 
 Comprehensive Generative Replay for TIL Segmentation
 [📄 Paper](https://doi.org/10.1007/978-3-031-72111-3) [💻 Code](https://github.com/jingyzhang/CGR)
@@ -1567,12 +1537,6 @@ ESPA: An Unsupervised Harmonization Framework
 Enhancing Spatiotemporal Disease Progression Models via Latent Diﬀusion and Prior Knowledge
 [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_17) [💻 Code](https://github.com/LemuelPuglisi/BrLP)
 
-MEGFormer: Enhancing Speech Decoding
-[📄 Paper](https://doi.org/10.1007/978-3-031-72069-7) [💻 Code](https://github.com/maryjis/MEGformer/)
-
-Discrete Sampling Scheme Design in Diffusion MRI using MILP
-[📄 Paper](https://doi.org/10.1007/978-3-031-72069-7) [💻 Code](https://github.com/dMRI/MixedIntegerLinearProgramming)
-
 TractOracle
 [📄 Paper](https://doi.org/10.1007/978-3-031-72069-7_45) [💻 Code](https://doi.org/10.1007/978-3-031-72069-7_45)
 
@@ -1683,3 +1647,4 @@ PRs welcome! Feel free to contribute your awesome AI medical imaging papers!
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
