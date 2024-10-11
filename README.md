@@ -4,7 +4,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome MICCAI 2024 accepted papers with available code implementations.
+📣📣A curated list of awesome MICCAI 2024 accepted papers with available code implementations.
 
 ![Distribution of Categories in AI Papers](distribution.gif)
 ![Organs in the papers](655bb783-fee5-48d2-a0a9-dbb7bb5c0971.gif)
